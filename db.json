@@ -169,30 +169,6 @@
       "sunday": "N"
     },
     {
-      "id": "16528ff1-be8b-4a08-ac17-0aac8ad98749",
-      "lesson": "Metodologias Ageis",
-      "obs": "Funcionamento",
-      "monday": "S",
-      "tuesday": "N",
-      "wednesday": "N",
-      "thursday": "N",
-      "friday": "N",
-      "saturday": "N",
-      "sunday": "N"
-    },
-    {
-      "id": "eed0b316-d539-48e7-907e-eb6cd33cae3b",
-      "lesson": "Gerenciamento de projetos",
-      "obs": "Pratica",
-      "monday": "N",
-      "tuesday": "N",
-      "wednesday": "S",
-      "thursday": "N",
-      "friday": "N",
-      "saturday": "N",
-      "sunday": "N"
-    },
-    {
       "id": "cd91f9c6-097d-4387-b470-eb69dd281693",
       "lesson": "TESTANDO A INTERFACE COM MAIS CARACTERES DO QUE O ESPERADO",
       "obs": "TESTANDO INTERFACE",
@@ -241,18 +217,6 @@
       "sunday": "N"
     },
     {
-      "id": "9025251c-b50b-4ae0-b3d6-bb0d02759051",
-      "lesson": "params rotas",
-      "obs": "PR",
-      "monday": "S",
-      "tuesday": "N",
-      "wednesday": "N",
-      "thursday": "N",
-      "friday": "N",
-      "saturday": "N",
-      "sunday": "N"
-    },
-    {
       "id": "79e041fc-239d-4d80-b540-9a1c6b012257",
       "lesson": "teste",
       "obs": "testando",
@@ -265,52 +229,52 @@
       "sunday": "S"
     },
     {
-      "id": "3a1e9844-5bdc-4f11-9068-5c278b418515",
-      "lesson": "teste add",
-      "obs": "dasdasdasdsads",
-      "monday": "N",
-      "tuesday": "N",
-      "wednesday": "N",
-      "thursday": "N",
-      "friday": "N",
+      "lesson": "alterando teste",
+      "obs": "alterando teste com put",
+      "monday": "S",
+      "tuesday": "S",
+      "wednesday": "S",
+      "thursday": "S",
+      "friday": "S",
+      "saturday": "N",
+      "sunday": "N",
+      "id": "3a1e9844-5bdc-4f11-9068-5c278b418515"
+    },
+    {
+      "id": "0756f842-023d-4f4a-a62d-9863dddfee8f",
+      "lesson": "Matematica",
+      "obs": "Equacoes",
+      "monday": "S",
+      "tuesday": "S",
+      "wednesday": "S",
+      "thursday": "S",
+      "friday": "S",
+      "saturday": "N",
+      "sunday": "N"
+    },
+    {
+      "id": "0b505d82-3e07-4d3b-8f4a-2844ce6d673f",
+      "lesson": "JavaScript",
+      "obs": "Avancado",
+      "monday": "S",
+      "tuesday": "S",
+      "wednesday": "S",
+      "thursday": "S",
+      "friday": "S",
       "saturday": "S",
       "sunday": "S"
     },
     {
-      "id": "af13565e-8334-4598-90d7-6a668f0e8d3d",
-      "lesson": "teste",
-      "obs": "teste",
+      "id": "4d336e6b-30b0-4b99-ab86-90159e02a182",
+      "lesson": "Teste obs",
+      "obs": "asdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
       "monday": "N",
-      "tuesday": "N",
-      "wednesday": "N",
+      "tuesday": "S",
+      "wednesday": "S",
       "thursday": "S",
-      "friday": "N",
-      "saturday": "N",
-      "sunday": "N"
-    },
-    {
-      "id": "80c542ea-5c8c-4688-ac0d-26b704f3f588",
-      "lesson": "teste",
-      "obs": "teste",
-      "monday": "S",
-      "tuesday": "N",
-      "wednesday": "N",
-      "thursday": "N",
-      "friday": "N",
-      "saturday": "N",
-      "sunday": "N"
-    },
-    {
-      "lesson": "Kotlin",
-      "obs": "Dev Android",
-      "monday": "N",
-      "tuesday": "N",
-      "wednesday": "N",
-      "thursday": "N",
       "friday": "S",
-      "saturday": "N",
-      "sunday": "N",
-      "id": "625f48f3-a4f5-4c70-8ee9-534d1c52b657"
+      "saturday": "S",
+      "sunday": "S"
     }
   ]
 }

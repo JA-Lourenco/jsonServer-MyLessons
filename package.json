@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "api": "json-server ./db.json --host 172.18.0.108 --port 3333 --delay 700"
+    "api": "json-server ./db.json --port 3333 --delay 700"
   },
   "dependencies": {
     "json-server": "^0.17.0"
