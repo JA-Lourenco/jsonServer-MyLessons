@@ -18,11 +18,11 @@ Antes de iniciar o passo a passo, execute o comando abaixo para instalar as depe
 
 http://localhost:3333
 
-2 - Execute o comando no terminal do JSON Server:
+3 - Execute o comando no terminal do JSON Server:
 
 <code>npm run api</code>
 
-3 - Execute o projeto React:
+4 - Execute o projeto React:
 
 [Repositório ReactJS](https://github.com/JA-Lourenco/myLessons-ReactJS)
 
