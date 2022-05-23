@@ -36,7 +36,7 @@ http://localhost:3333
 
 <code>"api": "json-server ./db.json --host {seu_ip} --port 3333 --delay 700"</code>
 
-3 - Dentro da pasta services, arquivo api.ts do projeto React Native, coloque a seguinte URl com o IP coletado:
+3 - Dentro da pasta services, arquivo api.ts do projeto React Native, coloque a seguinte URL com o IP coletado:
 
 http://192.128.0.0:3333
 
